@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 🌟 If you're looking to collaborate on exciting projects, discuss tech trending (AI and ML) , or explore new opportunities, feel free to connect with me! Let's innovate and create together.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=contest)
 
 🔗This is my linkedIn Profile plz check out 👇 
 https://www.linkedin.com/in/sunny-kumar-a06484297/
