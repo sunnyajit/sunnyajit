@@ -44,7 +44,7 @@ Here are some ideas to get you started:
      https://codeforces.com/profile/Sunnyks
 
  🔗This is my GeekforGeek Profile plz check out 👇  
-    https://www.geeksforgeeks.org/user/sunnykumarexcc/
+      https://www.geeksforgeeks.org/user/sunnykumarexcc/
 
   🔗This is my Hackerrank Profile plz check out 👇 
     https://www.hackerrank.com/profile/sunnykumar980121
