@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs)
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
 
 🔗This is my linkedIn Profile plz check out 👇 
    https://www.linkedin.com/in/sunny-kumar-a06484297/
