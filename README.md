@@ -35,6 +35,7 @@ Here are some ideas to get you started:
     <img src="https://codechef-readme-stats.onrender.com/{sunnykumar9801}?v=1">
 </a>
 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?Sunnyks=redheadphone)](https://codeforces.com/profile/redheadphone)
 
 
 🔗This is my linkedIn Profile plz check out 👇 
