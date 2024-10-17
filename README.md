@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sunnyajit)](https://github.com/sunnyajit/github-profile-trophy)
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnyajit
+)](https://git.io/streak-stats)
+
   
 
 🔗This is my linkedIn Profile plz check out 👇 
