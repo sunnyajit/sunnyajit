@@ -36,6 +36,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap)
