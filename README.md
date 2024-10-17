@@ -25,6 +25,16 @@ Here are some ideas to get you started:
 💻 Furthermore, I have experience as a full-stack web developer, where I've contributed to the development of robust, user-friendly web applications. From front-end design to back-end functionality, I enjoy being involved in every aspect of the development process.
 
 🌟 If you're looking to collaborate on exciting projects, discuss tech trending (AI and ML) , or explore new opportunities, feel free to connect with me! Let's innovate and create together.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sunny-kumar-a06484297/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@SunnyKeshri15">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
 
