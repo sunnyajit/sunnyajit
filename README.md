@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 🌟 If you're looking to collaborate on exciting projects, discuss tech trending (AI and ML) , or explore new opportunities, feel free to connect with me! Let's innovate and create together.
 
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=contest)
 [![CodeChef Stats](https://codechef-readme-stats.onrender.com/{sunnykumar9801}?v=1)](https://www.codechef.com/users/{sunnykumar9801})
@@ -38,7 +40,7 @@ Here are some ideas to get you started:
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs)
 
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
+  
 
 🔗This is my linkedIn Profile plz check out 👇 
    https://www.linkedin.com/in/sunny-kumar-a06484297/
