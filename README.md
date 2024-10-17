@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyajit)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sunnyajit)](https://github.com/sunnyajit/github-profile-trophy)
+
   
 
 🔗This is my linkedIn Profile plz check out 👇 
