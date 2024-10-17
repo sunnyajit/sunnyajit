@@ -34,6 +34,7 @@ Here are some ideas to get you started:
  
  
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks)](https://codeforces.com/profile/Sunnyks)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks)
 
 🔗This is my linkedIn Profile plz check out 👇 
    https://www.linkedin.com/in/sunny-kumar-a06484297/
