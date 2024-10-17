@@ -31,10 +31,9 @@ Here are some ideas to get you started:
 [![CodeChef Stats](https://codechef-readme-stats.onrender.com/{sunnykumar9801}?v=1)](https://www.codechef.com/users/{sunnykumar9801})
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1)
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?Sunnyks=redheadphone)](https://codeforces.com/profile/redheadphone)
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?Sunnyks=redheadphone)
-
+ 
+ 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks)](https://codeforces.com/profile/Sunnyks)
 
 🔗This is my linkedIn Profile plz check out 👇 
    https://www.linkedin.com/in/sunny-kumar-a06484297/
