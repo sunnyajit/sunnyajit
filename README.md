@@ -31,11 +31,9 @@ Here are some ideas to get you started:
 [![CodeChef Stats](https://codechef-readme-stats.onrender.com/{sunnykumar9801}?v=1)](https://www.codechef.com/users/{sunnykumar9801})
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1)
 
-<a href="https://www.codechef.com/users/{sunnykumar9801}">
-    <img src="https://codechef-readme-stats.onrender.com/{sunnykumar9801}?v=1">
-</a>
-
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?Sunnyks=redheadphone)](https://codeforces.com/profile/redheadphone)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?Sunnyks=redheadphone)
 
 
 🔗This is my linkedIn Profile plz check out 👇 
