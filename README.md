@@ -70,6 +70,9 @@ Here are some ideas to get you started:
 
 [![Codechef Stats](https://codechef-stats-api.vercel.app/api/user/sunnykumar9801?include=rating)](https://www.codechef.com/users/sunnykumar9801)
 
+[![Codechef Stats](https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801)](https://www.codechef.com/users/sunnykumar9801)
+
+
 
 
 
