@@ -84,6 +84,10 @@ Here are some ideas to get you started:
 )](https://git.io/streak-stats)
 
 
+[![Codechef stats](https://codechef-stats-api.herokuapp.com/user/sunnykumar9801)](https://www.codechef.com/users/sunnykumar9801)
+
+
+
 
 
 <h3>When I code, I rely on</h3>
