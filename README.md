@@ -63,8 +63,6 @@ Here are some ideas to get you started:
 
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<sunnykumarexcc>)](<https://www.geeksforgeeks.org/user/sunnykumarexcc/>)
 
-[![Codechef Stats](https://codechef-stats-api.vercel.app/api/user/sunnykumar9801?include=rating)](https://www.codechef.com/users/sunnykumar9801)
-
 [![Codechef Stats](https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801)](https://www.codechef.com/users/sunnykumar9801)
 
 
@@ -76,8 +74,6 @@ Here are some ideas to get you started:
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnyajit
 )](https://git.io/streak-stats)
-
-[![Codechef Stats](https://codechef-stats-api.vercel.app/api/user/sunnykumar9801)](https://www.codechef.com/users/sunnykumar9801)
 
 
 <h3>When I code, I rely on</h3>
