@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=contest)
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/{sunnykumar9801}?v=1)](https://www.codechef.com/users/{sunnykumar9801})
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1)
 
  
