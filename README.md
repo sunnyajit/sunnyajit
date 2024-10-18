@@ -68,6 +68,9 @@ Here are some ideas to get you started:
 
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<sunnykumarexcc>)](<https://www.geeksforgeeks.org/user/sunnykumarexcc/>)
 
+[![Codechef Stats](https://codechef-stats-api.vercel.app/api/user/sunnykumar9801?include=rating)](https://www.codechef.com/users/sunnykumar9801)
+
+
 
 
 
