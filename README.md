@@ -54,9 +54,7 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=contest)
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1)
-
-[![CodeChef Stats](https://codechef-readme-stats.onrender.com/{sunnykumar9801}?v=1)](https://www.codechef.com/users/{sunnykumar9801})
- 
+[![Codechef Stats](https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801)](https://www.codechef.com/users/sunnykumar9801)
  
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks)](https://codeforces.com/profile/Sunnyks)
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks)
