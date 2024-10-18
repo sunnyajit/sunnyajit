@@ -70,6 +70,8 @@ Here are some ideas to get you started:
 
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<sunnykumarexcc>)](<https://www.geeksforgeeks.org/user/sunnykumarexcc/>)
 
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<sunnykumarexcc>)](<https://www.geeksforgeeks.org/user/sunnykumarexcc>)
+
 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs)
