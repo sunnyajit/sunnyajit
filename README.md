@@ -64,10 +64,13 @@ Here are some ideas to get you started:
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks)](https://codeforces.com/profile/Sunnyks)
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks)
 
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<sunnykumarexcc>)](https://auth.geeksforgeeks.org/user/<sunnykumarexcc>/practice/)
+
+
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyajit)
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sunnyajit)](https://github.com/sunnyajit/github-profile-trophy)
 
