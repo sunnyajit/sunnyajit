@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<sunnykumarexcc>)](https://auth.geeksforgeeks.org/user/<sunnykumarexcc>/practice/)
 
+<a href="https://www.geeksforgeeks.org/user/<sunnykumarexcc>/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=<sunnykumarexcc>" alt="GFG stats"/></a>
+
 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs)
