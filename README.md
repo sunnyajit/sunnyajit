@@ -118,6 +118,9 @@ Here are some ideas to get you started:
    🔗This is my Discord ID plz check out 👇 
    https://discord.com/users/1169210008240672810
 
+  🔗This is my X-twitter ID plz check out 👇 
+       https://x.com/snnand9
+       
   🔗This is my Facebook ID plz check out 👇
    https://www.facebook.com/profile.php?id=61567246743546
   
