@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 💻 Furthermore, I have experience as a full-stack web developer, where I've contributed to the development of robust, user-friendly web applications. From front-end design to back-end functionality, I enjoy being involved in every aspect of the development process.
 
 🌟 If you're looking to collaborate on exciting projects, discuss tech trending (AI and ML) , or explore new opportunities, feel free to connect with me! Let's innovate and create together.
+
+- 📫 How to reach me *sunnykumar98012085@gmail.com*
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/sunny-kumar-a06484297/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -43,6 +46,9 @@ Here are some ideas to get you started:
   <a href="https://x.com/snnand9">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
+  
+  
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
