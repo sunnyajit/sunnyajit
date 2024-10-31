@@ -36,6 +36,28 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me *sunnykumar98012085@gmail.com*
 
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https:"https://x.com/snnand9" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt= "snnand9" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/sunny-kumar-a06484297/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="sunny-kumar-a06484297" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/sunnykeshriofficial/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="sunnykeshriofficial" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@SunnyKeshri15/featured" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            alt="@SunnyKeshri15" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/Sunnyajit/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="Sunnyajit" height="30" width="40" /></a>
+    <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+            alt="sunnykumarexcc" height="30" width="40" /></a>
+</p>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/sunny-kumar-a06484297/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
