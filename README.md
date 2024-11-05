@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 😄Pronouns: He/Him
 
-👨‍🎓 I'm currently pursuing my Bachelors in Computer Science & Engineering 
+👨‍🎓 I'm currently pursuing my Bachelors in Computer Science & Engineering(23-27) With Current CGPA 8.20
 
 🧑‍💻As a software engineer, I thrive on solving complex problems and building innovative software solutions. I'm proficient in various programming languages with a focus on [C++, Java,Javascript and python]. Passinate about Technology.
 
