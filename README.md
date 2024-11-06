@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1)
 [![Codechef Stats](https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801)](https://www.codechef.com/users/sunnykumar9801)
  
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks)](https://codeforces.com/profile/Sunnyks)      https://badgr.com/backpack/badges/672a570058b626319e124aaa
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks)](https://codeforces.com/profile/Sunnyks)       https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks)
 
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<sunnykumarexcc>)](<https://www.geeksforgeeks.org/user/sunnykumarexcc/>)
