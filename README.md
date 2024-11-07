@@ -22,20 +22,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄Pronouns: He/Him
-
-👨‍🎓 I'm currently pursuing my Bachelors in Computer Science & Engineering(23-27) With Current CGPA 8.20
-
-🧑‍💻As a software engineer, I thrive on solving complex problems and building innovative software solutions. I'm proficient in various programming languages with a focus on [C++, Java,Javascript and python]. Passinate about Technology.
-
-🏆 In addition to my software engineering skills, I'm also an avid competitive programmer. I enjoy participating in coding competitions and honing my algorithmic problem-solving abilities. Constantly challenging myself in this domain keeps my skills sharp and my creativity flowing.
-
-💻 Furthermore, I have experience as a full-stack web developer, where I've contributed to the development of robust, user-friendly web applications. From front-end design to back-end functionality, I enjoy being involved in every aspect of the development process.
-
-🌟 If you're looking to collaborate on exciting projects, discuss tech trending (AI and ML) , or explore new opportunities, feel free to connect with me! Let's innovate and create together.
-
-- 📫 How to reach me *sunnykumar98012085@gmail.com*
-
+👨‍🎓 𝗕.𝗧𝗲𝗰𝗵 𝗶𝗻 𝗖𝗦𝗘 (𝟮𝟬𝟮𝟯-𝟮𝟳), 𝗖𝗚𝗣𝗔: 𝟴.𝟮𝟬
+👨‍💻 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗻𝗴 𝘁𝗼 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗼𝗽𝗲𝗻-𝘀𝗼𝘂𝗿𝗰𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀, 𝗶𝗻𝗰𝗹𝘂𝗱𝗶𝗻𝗴 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝘀 𝗹𝗶𝗸𝗲 𝗚𝗦𝗦𝗼𝗖 (𝗚𝗶𝗿𝗹𝗦𝗰𝗿𝗶𝗽𝘁 𝗦𝘂𝗺𝗺𝗲𝗿 𝗼𝗳 𝗖𝗼𝗱𝗲) 𝗮𝗻𝗱 𝗛𝗮𝗰𝗸𝘁𝗼𝗯𝗲𝗿𝗳𝗲𝘀𝘁.
+🌐𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝘀𝗸𝗶𝗹𝗹𝗲𝗱 𝗶𝗻 𝗽𝗿𝗼𝗯𝗹𝗲𝗺-𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝗮𝗻𝗱 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀. 𝗣𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻 𝗖++, 𝗝𝗮𝘃𝗮, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗮𝗻𝗱 𝗣𝘆𝘁𝗵𝗼𝗻.
+🏆 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗰𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴; 𝗜 𝗽𝗮𝗿𝘁𝗶𝗰𝗶𝗽𝗮𝘁𝗲 𝗶𝗻 𝗰𝗼𝗱𝗶𝗻𝗴 𝗰𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝘀𝗵𝗮𝗿𝗽𝗲𝗻 𝗺𝘆 𝘀𝗸𝗶𝗹𝗹𝘀 𝗮𝗻𝗱 𝗰𝗿𝗲𝗮𝘁𝗶𝘃𝗶𝘁𝘆.
+💻 𝗙𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘄𝗶𝘁𝗵 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗶𝗻 𝗰𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗿𝗼𝗯𝘂𝘀𝘁, 𝘂𝘀𝗲𝗿-𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗳𝗿𝗼𝗺 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝘁𝗼 𝗯𝗮𝗰𝗸-𝗲𝗻𝗱.
+🌟 𝗢𝗽𝗲𝗻 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻𝘀, 𝗱𝗶𝘀𝗰𝘂𝘀𝘀𝗶𝗻𝗴 𝘁𝗲𝗰𝗵 𝘁𝗿𝗲𝗻𝗱𝘀 (𝗔𝗜/𝗠𝗟), 𝗼𝗿 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗻𝗲𝘄 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀. 𝗟𝗲𝘁’𝘀 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗲 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿!
+- 📫 How to reach me *sunnykumar98012085@gmail.com
+- 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://x.com/snnand9" target="blank"><img align="center"
