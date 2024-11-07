@@ -22,18 +22,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨‍🎓 𝐁.𝐓𝐞𝐜𝐡 𝐢𝐧 𝐂𝐒𝐄 (𝟐𝟎𝟐𝟑-𝟐𝟕), 𝐂𝐆𝐏𝐀: 𝟖.𝟐𝟎
+👨‍🎓 B.Tech in CSE (2023-27), CGPA: 8.20
 
-👨‍💻 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐧𝐠 𝐭𝐨 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐨𝐩𝐞𝐧-𝐬𝐨𝐮𝐫𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬, 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐬 𝐥𝐢𝐤𝐞 𝐆𝐒𝐒𝐨𝐂 (𝐆𝐢𝐫𝐥𝐒𝐜𝐫𝐢𝐩𝐭 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐨𝐝𝐞) 𝐚𝐧𝐝 𝐇𝐚𝐜𝐤𝐭𝐨𝐛𝐞𝐫𝐟𝐞𝐬𝐭.
+👨‍💻 I’m currently contributing to real-world open-source projects, including programs like GSSoC (GirlScript Summer of Code) and Hacktoberfest.
 
-🌐𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐬𝐤𝐢𝐥𝐥𝐞𝐝 𝐢𝐧 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬. 𝐏𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐢𝐧 𝐂++, 𝐉𝐚𝐯𝐚, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐚𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧.
+🌐Software Engineer skilled in problem-solving and building innovative solutions. Proficient in C++, Java, JavaScript, and Python.
 
-🏆 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠; 𝐈 𝐩𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐭𝐞 𝐢𝐧 𝐜𝐨𝐝𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧𝐬 𝐭𝐨 𝐬𝐡𝐚𝐫𝐩𝐞𝐧 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲.
+🏆 Passionate about competitive programming; I participate in coding competitions to sharpen my skills and creativity.
 
-💻 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐢𝐭𝐡 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐫𝐨𝐛𝐮𝐬𝐭, 𝐮𝐬𝐞𝐫-𝐟𝐫𝐢𝐞𝐧𝐝𝐥𝐲 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐟𝐫𝐨𝐦 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐭𝐨 𝐛𝐚𝐜𝐤-𝐞𝐧𝐝.
+💻 Full-stack web developer with experience in creating robust, user-friendly applications from front-end to back-end.
 
-🌟 𝐎𝐩𝐞𝐧 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧𝐬, 𝐝𝐢𝐬𝐜𝐮𝐬𝐬𝐢𝐧𝐠 𝐭𝐞𝐜𝐡 𝐭𝐫𝐞𝐧𝐝𝐬 (𝐀𝐈/𝐌𝐋), 𝐨𝐫 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐧𝐞𝐰 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬. 𝐋𝐞𝐭’𝐬 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐞 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫!
- 
+🌟 Open to collaborations, discussing tech trends (AI/ML), or exploring new opportunities. Let’s innovate together!
+
 - 📫 How to reach me *sunnykumar98012085@gmail.com
   <h3 align="left">Connect with me:</h3>
 <p align="left">
