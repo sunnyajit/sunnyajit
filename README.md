@@ -10,6 +10,8 @@ Hey There!
 
    [![Holopin Profile](https://holopin.me/sunnyajit)](https://www.holopin.io/@sunnyajit#badges)
 
+   [Holopin Badges](https://www.holopin.io/@sunnyajit#badges)
+
 <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
