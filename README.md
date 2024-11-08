@@ -16,6 +16,13 @@ Hey There!
 
    [![An image of @sunnyajit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunnyajit)](https://holopin.io/@sunnyajit)
 
+
+[![Holopin Badge 1](https://holopin.io/api/user/sunnyajit/badge1)](https://www.holopin.io/@sunnyajit#badges)
+[![Holopin Badge 2](https://holopin.io/api/user/sunnyajit/badge2)](https://www.holopin.io/@sunnyajit#badges)
+[![Holopin Badge 3](https://holopin.io/api/user/sunnyajit/badge3)](https://www.holopin.io/@sunnyajit#badges)
+[![Holopin Badge 4](https://holopin.io/api/user/sunnyajit/badge4)](https://www.holopin.io/@sunnyajit#badges)
+[![Holopin Badge 5](https://holopin.io/api/user/sunnyajit/badge5)](https://www.holopin.io/@sunnyajit#badges)
+
 <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
