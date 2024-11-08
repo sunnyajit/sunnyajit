@@ -23,6 +23,13 @@ Hey There!
 [![Holopin Badge 4](https://holopin.io/api/user/sunnyajit/badge4)](https://www.holopin.io/@sunnyajit#badges)
 [![Holopin Badge 5](https://holopin.io/api/user/sunnyajit/badge5)](https://www.holopin.io/@sunnyajit#badges)
 
+
+
+[![Holopin Badge 1](https://holopin.io/api/user/sunnyajit/badge1)](https://www.holopin.io/hacktoberfest2024/userbadge/cm37fjyx802600cm7tr0yja1c)
+[![Holopin Badge 2](https://holopin.io/api/user/sunnyajit/badge2)](https://www.holopin.io/hacktoberfest2024/userbadge/cm37oxb2a02950clgdbmm6upa)
+[![Holopin Badge 3](https://holopin.io/api/user/sunnyajit/badge3)](https://www.holopin.io/hacktoberfest2024/userbadge/cm37oxb4503020clgu263yvrv)
+[![Holopin Badge 4](https://holopin.io/api/user/sunnyajit/badge4)](https://www.holopin.io/hacktoberfest2024/userbadge/cm37oxazk02890clghdxkahtw)
+
 <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
