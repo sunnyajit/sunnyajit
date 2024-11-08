@@ -12,6 +12,8 @@ Hey There!
 
    [Holopin Badges](https://www.holopin.io/@sunnyajit#badges)
 
+   [![Holopin Board](https://holopin.me/sunnyajit)](https://www.holopin.io/@sunnyajit#) 
+
 <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
