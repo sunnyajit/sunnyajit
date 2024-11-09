@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 💻 Full-stack web developer with experience in creating robust, user-friendly applications from front-end to back-end.
 
 🌟 Open to collaborations, discussing tech trends (AI/ML), or exploring new opportunities. Let’s innovate together!
-📫 How to reach me *sunnykumar98012085@gmail.com
+
+ -📫 How to reach me *sunnykumar98012085@gmail.com
   <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://x.com/snnand9" target="blank"><img align="center"
