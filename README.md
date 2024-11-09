@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 --> 
      
      
-  <h1>
+  <h4>
 👨‍🎓 B.Tech in CSE (2023-27), CGPA: 8.20
 
 👨‍💻 I’m currently contributing to real-world open-source projects, including programs like GSSoC (GirlScript Summer of Code) and Hacktoberfest.
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 💻 Full-stack web developer with experience in creating robust, user-friendly applications from front-end to back-end.
 
 🌟 Open to collaborations, discussing tech trends (AI/ML), or exploring new opportunities. Let’s innovate together!
-   <h1/>
+   <h4/>
 
  -📫 How to reach me *sunnykumar98012085@gmail.com
   <h3 align="left">Connect with me:</h3>
