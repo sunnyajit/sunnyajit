@@ -50,7 +50,8 @@ username
 ---
 
 ### 📊 GitHub Profile Summary
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=2077)
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=2077)    ## ⏰ Productive Time Summary
+[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=radical&utcOffset=UTC+05:30)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=radical&utcOffset=UTC+05:30)
 
 ---
 
@@ -58,24 +59,11 @@ username
 ---
 
 ## ⏰ Productive Time Summary
-
 [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=radical&utcOffset=UTC+05:30)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=radical&utcOffset=UTC+05:30)
 
 ---
 
----
-
-## 📊 GitHub Profile Summary
-
-[![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/sunnyajit/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/sunnyajit/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
-
----
+ 
 
 <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
