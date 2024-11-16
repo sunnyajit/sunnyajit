@@ -9,18 +9,6 @@ Hey There!
    </h1>  
 
    [![Holopin Profile](https://holopin.me/sunnyajit)](https://www.holopin.io/@sunnyajit#badges)
-
-   https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com
-
-
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sunnyajit}&theme={2077}
-
-Accept url parameters
-theme
-  2077
-username
- sunnyajit
-
  http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sunnyajit}&theme={radical}
 
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
