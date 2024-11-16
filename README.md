@@ -22,8 +22,10 @@ Hey There!
 ### 📊 GitHub Profile Summary
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark)  [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark)  [![Repositories per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook)[![Most Commit Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook)](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook) [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30)
 
-
 ---
+
+[![View Badge](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)
+
 
 <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
