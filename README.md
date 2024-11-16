@@ -9,8 +9,6 @@ Hey There!
    </h1>  
 
    [![Holopin Profile](https://holopin.me/sunnyajit)](https://www.holopin.io/@sunnyajit#badges)
- http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sunnyajit}&theme={radical}
-
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/sunnyajit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/sunnyajit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
