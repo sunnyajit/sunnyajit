@@ -50,9 +50,7 @@ username
 
 ### 📊 GitHub Profile Summary
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark)  [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark) [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30)
-
-      
-[![Most Commit Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=radical&exclude=java,rust,jupyter%20notebook)](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=radical&exclude=java,rust,jupyter%20notebook)
+[![Most Commit Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook)](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook)
 
 ---
 
