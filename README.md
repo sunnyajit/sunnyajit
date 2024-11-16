@@ -25,10 +25,7 @@ Hey There!
 ---
 
 [![View Badge](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)
-
-[![Your Badge](https://img.shields.io/badge/Certificate-Badgr-blue)](https://badgr.com/print-certificate/672a570058b626319e124aaa)
-
-<!--
+ <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
