@@ -13,16 +13,28 @@ Hey There!
    https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com
 
 
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sunnyajit}&theme={2077}
 
-   <a href="https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com" target="_blank">
-    <img src="https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com" alt="Badge" />
-</a>
+Accept url parameters
+theme
+  2077
+username
+ sunnyajit
 
+
+
+
+
+   
 
 [![Your Badge](https://img.shields.io/badge/Certificate-Badgr-blue)](https://badgr.com/print-certificate/672a570058b626319e124aaa)
 
 
 ![Profile Details](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/nightowl/0-profile-details.svg)
+
+
+
+
 
 
 
