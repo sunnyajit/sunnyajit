@@ -50,18 +50,13 @@ username
 ---
 
 ### 📊 GitHub Profile Summary
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=2077)    ## ⏰ Productive Time Summary
-[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=radical&utcOffset=UTC+05:30)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=radical&utcOffset=UTC+05:30)
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=2077)    [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=radical&utcOffset=UTC+05:30)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=radical&utcOffset=UTC+05:30)
 
 ---
 
 
----
-
-## ⏰ Productive Time Summary
-[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=radical&utcOffset=UTC+05:30)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=radical&utcOffset=UTC+05:30)
-
----
+ 
+ 
 
  
 
