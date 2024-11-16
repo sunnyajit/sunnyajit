@@ -23,27 +23,16 @@ username
 
  http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sunnyajit}&theme={radical}
 
- [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/sunnyajit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/sunnyajit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
 
 
 
-
-
-
-   
-
 [![Your Badge](https://img.shields.io/badge/Certificate-Badgr-blue)](https://badgr.com/print-certificate/672a570058b626319e124aaa)
 
 
 ![Profile Details](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/nightowl/0-profile-details.svg)
-
-
-
-
-
- 
 
 
 ---
@@ -53,18 +42,6 @@ username
 
 
 ---
-
-
- 
- ---
-
-## 📈 GitHub Stats
-
-[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=radical)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=radical)
-
----
-
- 
 
 <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
