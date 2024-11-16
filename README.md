@@ -47,6 +47,14 @@ username
 ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)
 
 
+---
+
+### 📊 GitHub Profile Summary
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=2077)
+
+---
+
+
 <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
