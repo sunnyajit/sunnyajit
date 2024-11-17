@@ -44,6 +44,11 @@ Hey There!
   </a>
 </div>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sunnyajit&theme=react" alt="GitHub Streak" width="250" height="125" />
+  </a>
+</div>
 
 
  <!--
