@@ -18,6 +18,29 @@ Hey There!
 ---
 
 [![View Badge](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)
+
+
+
+
+
+<div align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark" width="250" height="125" />
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook" width="250" height="125" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook" width="250" height="125" />
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30" width="250" height="125" />
+  </a>
+</div>
+
  <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
