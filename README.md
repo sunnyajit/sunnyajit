@@ -40,9 +40,10 @@ Hey There!
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyajit" width="250" height="125" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyajit&theme=nord_dark" width="250" height="125" />
   </a>
 </div>
+
 
 
  <!--
