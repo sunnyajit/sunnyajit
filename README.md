@@ -13,6 +13,8 @@ Hey There!
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/sunnyajit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/sunnyajit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
 
+
+
 ---
 
 <div align="center">
@@ -25,8 +27,6 @@ Hey There!
 </div>
 
 
-
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark) 
 <div align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark" alt="GitHub Profile Summary" width="500" height="250" />
@@ -47,6 +47,8 @@ Hey There!
   </a>
 </div>
 
+
+
 <div align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook" width="300" height="150" />
@@ -55,6 +57,9 @@ Hey There!
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30" width="300" height="150" />
   </a>
 </div>
+
+
+
 
 
 ---
