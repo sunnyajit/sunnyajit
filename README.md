@@ -19,6 +19,18 @@ Hey There!
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sunnyajit&theme=react" alt="GitHub Streak" width="300" height="150" />
   </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyajit&theme=nord_dark" alt="GitHub Streak" width="300" height="150" />
+  </a>
+</div>
+
+
+
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sunnyajit&theme=react" alt="GitHub Streak" width="300" height="150" />
+  </a>
 </div>
 
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark) 
