@@ -38,6 +38,11 @@ Hey There!
 [![View Badge](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)
 
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyajit" width="250" height="125" />
+  </a>
+</div>
 
 
  <!--
