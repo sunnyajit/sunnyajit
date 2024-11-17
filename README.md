@@ -28,14 +28,6 @@ Hey There!
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sunnyajit&theme=react" alt="GitHub Streak" width="300" height="150" />
-  </a>
-</div> 
-
-
-  
-<div align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark" width="300" height="150" />
   </a>
@@ -59,19 +51,6 @@ Hey There!
 ---
 
 [![View Badge](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)
-
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyajit&theme=nord_dark" width="250" height="125" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sunnyajit&theme=react" alt="GitHub Streak" width="250" height="125" />
-  </a>
-</div>
 
 
  <!--
