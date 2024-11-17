@@ -13,7 +13,25 @@ Hey There!
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/sunnyajit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
 
 ---
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark)  [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark)](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark)  [![Repositories per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook)[![Most Commit Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook)](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook) [![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30)
+
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark)   <div align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark" width="300" height="150" />
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook" width="300" height="150" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook" width="300" height="150" />
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunnyajit&theme=nord_dark&utcOffset=UTC+05:30" width="300" height="150" />
+  </a>
+</div>
+
 
 ---
 
