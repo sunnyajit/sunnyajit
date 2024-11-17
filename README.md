@@ -5,9 +5,8 @@ Hey There!
   <div id="header" align="center">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
    </h1>  
-
+   
    [![Holopin Profile](https://holopin.me/sunnyajit)](https://www.holopin.io/@sunnyajit#badges)
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/sunnyajit/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sunnyajit/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/sunnyajit/github-profile-summary-cards)
