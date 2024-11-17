@@ -19,7 +19,7 @@ Hey There!
 
 <div align="center">
     <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark" alt="GitHub Profile Summary" width="300" height="200" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark" alt="GitHub Profile Summary" width="300" height="160" />
    </a>
    <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sunnyajit&theme=react" alt="GitHub Streak" width="300" height="150" />
