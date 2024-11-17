@@ -28,15 +28,12 @@ Hey There!
 
 
 <div align="center">
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunnyajit&theme=nord_dark" alt="GitHub Profile Summary" width="500" height="250" />
-  </a> 
-</div>
-<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sunnyajit&theme=react" alt="GitHub Streak" width="300" height="150" />
   </a>
 </div> 
+
+
   
 <div align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark">
@@ -46,9 +43,6 @@ Hey There!
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook" width="300" height="150" />
   </a>
 </div>
-
-
-
 <div align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook" width="300" height="150" />
