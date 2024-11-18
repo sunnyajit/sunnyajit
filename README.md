@@ -157,7 +157,6 @@ Here are some ideas to get you started:
 
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<sunnykumarexcc>)](<https://www.geeksforgeeks.org/user/sunnykumarexcc/>)
 
-
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyajit)
@@ -166,6 +165,55 @@ Here are some ideas to get you started:
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunnyajit
 )](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
+
+
+
+<div style="display: flex; gap: 0px; flex-wrap: nowrap; align-items: center;">
+  <img src="https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1" alt="CodeChef Stats" height="30" width="60" />
+  <a href="https://www.codechef.com/users/sunnykumar9801">
+    <img src="https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801" alt="Codechef Stats" height="30" width="60" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/Sunnyks">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks" alt="Codeforces Stats" height="30" width="60" />
+  </a>
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" alt="Codeforces Badge" height="30" width="60" />
+  
+  <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" alt="GeeksForGeeks Stats" height="30" width="60" />
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs" alt="Overall Stats" height="30" width="60" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyajit" alt="Top Languages Card" height="30" width="60" />
+  
+  <a href="https://github.com/sunnyajit/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sunnyajit" alt="Trophy" height="30" width="60" />
+  </a>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyajit" alt="GitHub Streak" height="30" width="60" />
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h3>When I code, I rely on</h3>
