@@ -14,7 +14,7 @@
   [![Holopin Profile](https://holopin.me/sunnyajit)](https://www.holopin.io/@sunnyajit#badges)
 
   <a href="https://www.holopin.io/@sunnyajit#badges">
-  <img src="https://holopin.me/sunnyajit" width="600" height="100" alt="Holopin Profile"/>
+  <img src="https://holopin.me/sunnyajit" width="600" height="150" alt="Holopin Profile"/>
 </a>
 
    
