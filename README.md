@@ -136,22 +136,22 @@ Here are some ideas to get you started:
 <div style="display: flex; align-items: center; gap: 60px; flex-wrap: nowrap;">
   <!-- Social Media Icons -->
   <a href="https://x.com/snnand9" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snnand9" height="30" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snnand9" height="30" width="45" />
   </a>
   <a href="https://www.linkedin.com/in/sunny-kumar-a06484297/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-kumar-a06484297" height="30" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-kumar-a06484297" height="30" width="45" />
   </a>
   <a href="https://www.instagram.com/sunnykeshriofficial/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunnykeshriofficial" height="30" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunnykeshriofficial" height="30" width="45" />
   </a>
   <a href="https://www.youtube.com/@SunnyKeshri15/featured" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@SunnyKeshri15" height="30" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@SunnyKeshri15" height="30" width="45" />
   </a>
   <a href="https://leetcode.com/u/Sunnyajit/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sunnyajit" height="30" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sunnyajit" height="30" width="45" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunnykumarexcc" height="30" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunnykumarexcc" height="30" width="45" />
   </a>
 
   <!-- Badges -->
