@@ -184,14 +184,8 @@ Here are some ideas to get you started:
 
 
 
-
-![Sunny GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&theme=blue-green&show_icons=true)
  
- 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs&theme=nord_dark)
-
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs)
+  
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sunnyajit)](https://github.com/sunnyajit/github-profile-trophy)
