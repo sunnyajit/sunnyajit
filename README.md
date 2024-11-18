@@ -1,4 +1,5 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit" width="100" height="25" />
+
 ##   
 <h1>
 Hey There!
