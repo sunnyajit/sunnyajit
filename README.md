@@ -177,25 +177,7 @@ Here are some ideas to get you started:
 
  
 
-
-
-<div style="display: flex; gap: 10px;">
-  <div>
-    <a href="https://www.codechef.com/users/sunnykumar9801">
-      <img src="https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801" alt="My Codechef Profile Stats">
-    </a>
-  </div>
-  <div>
-    <a href="https://codeforces.com/profile/Sunnyks">
-      <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" alt="Codeforces Badge">
-    </a>
-  </div>
-  <div>
-    <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/">
-      <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" alt="GeeksForGeeks stats">
-    </a>
-  </div>
-</div>
+ 
 
 
 
@@ -203,13 +185,7 @@ Here are some ideas to get you started:
 
 
  
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1)
-[![Codechef Stats](https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801)](https://www.codechef.com/users/sunnykumar9801)
  
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks)](https://codeforces.com/profile/Sunnyks)        
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks)
-
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=<sunnykumarexcc>)](<https://www.geeksforgeeks.org/user/sunnykumarexcc/>)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs)
 
