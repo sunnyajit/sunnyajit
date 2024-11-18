@@ -160,13 +160,13 @@ Here are some ideas to get you started:
 
 <div style="display: flex; gap: 30px; justify-content: center; align-items: center;">
    <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" width="300" height="210"  />
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" width="300" height="250"  />
+  </a>
+   <a href="https://codeforces.com/profile/Sunnyks">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" width="120" height="100" />
   </a>
   <a href="https://www.codechef.com/users/sunnykumar9801">
-    <img src="https://codechef-readme-stats.vercel.app/api/badge?username=sunnykumar9801" width="70" height="100"  alt="My Codechef Profile " />
-  </a>
-  <a href="https://codeforces.com/profile/Sunnyks">
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" width="110" height="100" />
+    <img src="https://codechef-readme-stats.vercel.app/api/badge?username=sunnykumar9801" width="50" height="100"  alt="My Codechef Profile " />
   </a>
 </div>
 
