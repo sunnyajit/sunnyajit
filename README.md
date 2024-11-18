@@ -126,6 +126,13 @@ Here are some ideas to get you started:
 <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=contest" width="250" height="150" />
 
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap" width="250" height="150" />
+  <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=contest" width="250" height="150" />
+</div>
+
+
+
 
  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
 
