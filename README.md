@@ -146,15 +146,7 @@ Here are some ideas to get you started:
   <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=contest" width="300" height="160" />
 </div>
 
-
-
-<div style="display: flex; justify-content: space-between; width: 700px; height: 300px;">
-  <img src="https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1" alt="CodeChef Stats" style="width: 300px; height: 150px;">
-  <a href="https://codeforces.com/profile/Sunnyks">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks" alt="Codeforces Stats" style="width: 300px; height: 150px;">
-  </a>
-</div>
-
+ 
 
 <div style="display: flex; justify-content: space-between; width: 600px; height: 200px;">
   <img src="https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1" alt="CodeChef Stats" style="width: 300px; height: 200px;">
