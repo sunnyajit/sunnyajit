@@ -79,17 +79,9 @@ Here are some ideas to get you started:
 -->  
  
   <h4> 
-👨‍🎓 B.Tech in CSE (2023-27), CGPA: 8.20
+ 👨‍💻 Contributing to open-source projects like GSSoC & Hacktoberfest. Skilled in C++, Java, JavaScript, and Python with a focus on problem-solving and building innovative solutions.
 
-👨‍💻 I’m currently contributing to real-world open-source projects, including programs like GSSoC (GirlScript Summer of Code) and Hacktoberfest.
-
-🌐Software Engineer skilled in problem-solving and building innovative solutions. Proficient in C++, Java, JavaScript, and Python.
-
-🏆 Passionate about competitive programming; I participate in coding competitions to sharpen my skills and creativity.
-
-💻 Full-stack web developer with experience in creating robust, user-friendly applications from front-end to back-end.
-
-🌟 Open to collaborations, discussing tech trends (AI/ML), or exploring new opportunities. Let’s innovate together!
+🌐 Full-stack developer, competitive programmer, and tech enthusiast passionate about AI/ML. Open to collaborations and exploring new opportunities!
    <h4/>
 
  -📫 How to reach me *sunnykumar98012085@gmail.com
