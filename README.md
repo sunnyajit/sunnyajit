@@ -2,9 +2,7 @@
 ##   
 <h1>
 Hey There!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>My self Sunny. A software engineer from India.  👨‍💻 Contributing to open-source projects like GSSoC & Hacktoberfest. Skilled in C++, Java, JavaScript, and Python with a focus on problem-solving and building innovative solutions.
-
-🌐 Full-stack developer, competitive programmer, and tech enthusiast passionate about AI/ML. Open to collaborations and exploring new opportunities!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>My self Sunny, A software engineer from India.   
   <div id="header" align="center">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
