@@ -157,10 +157,41 @@ Here are some ideas to get you started:
 
 
 
+
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <a href="https://www.codechef.com/users/sunnykumar9801">
+    <img src="https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801" width="50" height="100" />
+  </a>
+  <a href="https://codeforces.com/profile/Sunnyks">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" width="50" height="100" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" width="50" height="100" />
+  </a>
+</div>
+
+
+
+
+
+
+<a href="https://www.codechef.com/users/sunnykumar9801">
+  <img src="https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801" width="50" height="100" />
+</a>
+<a href="https://codeforces.com/profile/Sunnyks">
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" width="50" height="100" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" width="50" height="100" />
+</a>
+
+
+
+
 <div style="display: flex; gap: 10px;">
   <div>
     <a href="https://www.codechef.com/users/sunnykumar9801">
-      <img src="https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801" alt="Codechef Stats">
+      <img src="https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801" alt="My Codechef Profile Stats">
     </a>
   </div>
   <div>
@@ -174,6 +205,9 @@ Here are some ideas to get you started:
     </a>
   </div>
 </div>
+
+
+
 
 
 
