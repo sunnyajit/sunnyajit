@@ -1,4 +1,3 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit" width="100" height="25" />
 
 ##   
 <h1>
@@ -70,8 +69,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
      
-     
-  <h4>
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)  
+ 
+  <h4> 
 👨‍🎓 B.Tech in CSE (2023-27), CGPA: 8.20
 
 👨‍💻 I’m currently contributing to real-world open-source projects, including programs like GSSoC (GirlScript Summer of Code) and Hacktoberfest.
@@ -106,9 +106,10 @@ Here are some ideas to get you started:
     <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="sunnykumarexcc" height="30" width="40" /></a>
-  
-   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
+
 </p>
+
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sunny-kumar-a06484297/">
