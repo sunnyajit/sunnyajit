@@ -149,13 +149,6 @@ Here are some ideas to get you started:
 
 
  
-
-
-
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap)
-![Leetcode Stats](https://leetcard.jacoblin.cool/sunnyajit?ext=contest)
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1)
 [![Codechef Stats](https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801)](https://www.codechef.com/users/sunnykumar9801)
  
