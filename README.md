@@ -163,15 +163,6 @@ Here are some ideas to get you started:
 
 
 
-
- 
-
-<img src="https://github-readme-stats.vercel.app/api?username=sunnyajit&theme=blue-green&show_icons=true" width="300" height="160" />
-
- 
-
- 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=sunnyajit)](https://github.com/sunnyajit/github-profile-trophy)
 
  
