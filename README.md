@@ -58,7 +58,7 @@ Hey There!
 <div style="display: flex; gap: 100px;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit" alt="Visitor">
   <a href="https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com">
-    <img src="https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com" alt="View Badge">
+    <img src="https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com" alt="View My Postman API Badge">
   </a>
 </div>
 
