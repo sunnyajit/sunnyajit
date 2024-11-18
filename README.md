@@ -158,7 +158,7 @@ Here are some ideas to get you started:
 
 
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+<div style="display: flex; gap: 30px; justify-content: center; align-items: center;">
    <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/">
     <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" width="200" height="150" />
   </a>
@@ -166,7 +166,7 @@ Here are some ideas to get you started:
     <img src="https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801" width="100" height="100" />
   </a>
   <a href="https://codeforces.com/profile/Sunnyks">
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" width="100" height="100" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" width="200" height="150" />
   </a>
 </div>
 
