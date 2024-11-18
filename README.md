@@ -123,15 +123,6 @@ Here are some ideas to get you started:
 
  
 
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap" width="250" height="150" />
-  <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=contest" width="250" height="150" />
-</div>
-
-
-
-
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <!-- LeetCode Heatmap -->
   <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap" width="300" height="160" />
