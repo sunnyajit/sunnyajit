@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: nowrap;">
   <!-- Social Media Icons -->
   <a href="https://x.com/snnand9" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snnand9" height="30" width="40" />
@@ -152,7 +152,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sunnyajit" height="30" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunnykumarexcc" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunnykumarexcc" height="30" width="60" />
   </a>
 
   <!-- Badges -->
