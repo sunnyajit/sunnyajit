@@ -29,9 +29,7 @@ Hey There!
 
 
 <div align="center">
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunnyajit&theme=nord_dark" width="300" height="150" />
-  </a>
+     <img src="https://github-readme-stats.vercel.app/api?username=sunnyajit&theme=blue-green&show_icons=true" width="300" height="160" />
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunnyajit&theme=nord_dark&exclude=java,rust,jupyter%20notebook" width="300" height="150" />
   </a>
