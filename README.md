@@ -104,6 +104,8 @@ Here are some ideas to get you started:
     <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="sunnykumarexcc" height="30" width="40" /></a>
+  
+   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)
 </p>
 
 <div id="badges">
@@ -112,8 +114,11 @@ Here are some ideas to get you started:
   </a>    <a href="https://www.youtube.com/@SunnyKeshri15">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>      <a href="https://x.com/snnand9">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>    
   </a>
+  
+  </div>  
+
 
 
 <div align="center">
