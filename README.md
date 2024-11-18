@@ -12,6 +12,8 @@
 
 
 
+
+
    [![Holopin Profile](https://holopin.me/sunnyajit)](https://www.holopin.io/@sunnyajit#badges)
 
 
@@ -81,6 +83,11 @@ Here are some ideas to get you started:
 
 🌐 Full-stack developer, competitive programmer, and tech enthusiast passionate about AI/ML. Open to collaborations and exploring new opportunities!
    <h4/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100" height="200"/>
+</div>
+
 
  -📫 How to reach me *sunnykumar98012085@gmail.com
 <h3 align="left">Connect with me:</h3>
