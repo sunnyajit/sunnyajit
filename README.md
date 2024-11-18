@@ -166,7 +166,7 @@ Here are some ideas to get you started:
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" width="50" height="100" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" width="50" height="100" />
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" width="200" height="150" />
   </a>
 </div>
 
