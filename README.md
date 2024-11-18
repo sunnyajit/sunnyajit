@@ -134,10 +134,10 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <!-- LeetCode Heatmap -->
-  <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap" width="300" height="150" />
+  <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=heatmap" width="320" height="160" />
   
   <!-- LeetCode Contest -->
-  <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=contest" width="300" height="150" />
+  <img src="https://leetcard.jacoblin.cool/sunnyajit?ext=contest" width="320" height="160" />
 </div>
 
 
