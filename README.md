@@ -181,18 +181,14 @@ Here are some ideas to get you started:
   <a href="https://www.codechef.com/users/sunnykumar9801">
     <img src="https://codechef-readme-stats.vercel.app/api/user?username=sunnykumar9801" alt="Codechef Stats" height="30" width="60" />
   </a>
-  
   <a href="https://codeforces.com/profile/Sunnyks">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks" alt="Codeforces Stats" height="30" width="60" />
   </a>
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" alt="Codeforces Badge" height="30" width="60" />
-  
   <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/">
     <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" alt="GeeksForGeeks Stats" height="30" width="60" />
   </a>
-  
   <img src="https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs" alt="Overall Stats" height="30" width="60" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyajit" alt="Top Languages Card" height="30" width="60" />
   
   <a href="https://github.com/sunnyajit/github-profile-trophy">
