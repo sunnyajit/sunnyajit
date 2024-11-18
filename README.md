@@ -185,11 +185,11 @@ Here are some ideas to get you started:
 
 
  
- 
+ ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs&theme=nord_dark)
+
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&count_private=true&show_icons=true&hide=contribs)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyajit)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sunnyajit)](https://github.com/sunnyajit/github-profile-trophy)
 
