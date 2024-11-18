@@ -56,6 +56,14 @@ Hey There!
 [![View Badge](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)](https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com)
 
 
+<div style="display: flex; gap: 10px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit" alt="Visitor">
+  <a href="https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com">
+    <img src="https://api.badgr.io/public/assertions/IRx1ODOyQm-JUPV7H28RnA?identity__email=sunnykumar98012085%40gmail.com" alt="View Badge">
+  </a>
+</div>
+
+
  <!--
 **sunnyajit/sunnyajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,9 +77,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 
-     
- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sunnyajit.sunnyajit)  
+-->  
  
   <h4> 
 👨‍🎓 B.Tech in CSE (2023-27), CGPA: 8.20
