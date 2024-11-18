@@ -151,7 +151,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sunnyajit" height="30" width="50" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunnykumarexcc" height="30" width="60" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunnykumarexcc" height="30" width="50" />
   </a>
 
   <!-- Badges -->
