@@ -9,13 +9,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" height="50"/>
 </div>
 
-   
-    
-  <a href="https://www.holopin.io/@sunnyajit#badges">
-  <img src="https://holopin.me/sunnyajit" width="600" height="150" alt="Holopin Profile"/>
-</a>
 
-   
+
+
+   [![Holopin Profile](https://holopin.me/sunnyajit)](https://www.holopin.io/@sunnyajit#badges)
+
 
 
 ---
