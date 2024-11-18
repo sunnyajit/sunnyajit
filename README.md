@@ -174,9 +174,7 @@ Here are some ideas to get you started:
 
 
 
-![Sunny GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyajit&theme=blue-green&show_icons=true&hide_title=true)
-
-
+ 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sunnyajit&theme=blue-green&show_icons=true" width="300" height="160" />
 
