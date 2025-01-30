@@ -142,8 +142,8 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-between; width: 600px; height: 200px;">
   <img src="https://codechef-readme-stats.onrender.com/sunnykumar9801?v=1" alt="CodeChef Stats" style="width: 300px; height: 300px;">
-  <a href="https://codeforces.com/profile/Sunnyks">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Sunnyks" alt="Codeforces Stats" style="width: 200px; height: 300px;">
+  <a href="https://codeforces.com/profile/sunajit">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sunajit" alt="Codeforces Stats" style="width: 200px; height: 300px;">
   </a>
 </div>
 
@@ -151,6 +151,7 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex; gap: 30px; justify-content: center; align-items: center;">
+ 
    <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/">
     <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" width="300" height="250"  />
   </a>
