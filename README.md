@@ -154,8 +154,8 @@ Here are some ideas to get you started:
    <a href="https://www.geeksforgeeks.org/user/sunnykumarexcc/">
     <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sunnykumarexcc" width="300" height="250"  />
   </a>
-   <a href="https://codeforces.com/profile/Sunnyks">
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Sunnyks" width="150" height="200" />
+   <a href="https://codeforces.com/profile/sunajit">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=sunajit" width="150" height="200" />
   </a>
   <a href="https://www.codechef.com/users/sunnykumar9801">
     <img src="https://codechef-readme-stats.vercel.app/api/badge?username=sunnykumar9801" width="20" height="100"  alt="My Codechef Profile " />
