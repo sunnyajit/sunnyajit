@@ -195,39 +195,8 @@ Here are some ideas to get you started:
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
-🔗This is my linkedIn Profile plz check out 👇 
-   https://www.linkedin.com/in/sunny-kumar-a06484297/
-
-🔗This is my Codechef Profile plz check out 👇 
-  https://www.codechef.com/users/sunnykumar9801
-
-🔗This is my Leetcode Profile plz check out 👇 
-    https://leetcode.com/u/Sunnyajit/
-
- 🔗This is my Codeforce Profile plz check out 👇 
-     https://codeforces.com/profile/Sunnyks
-
- 🔗This is my GeekforGeek Profile plz check out 👇  
-      https://www.geeksforgeeks.org/user/sunnykumarexcc/
-
+ 
   🔗This is my Hackerrank Profile plz check out 👇 
     https://www.hackerrank.com/profile/sunnykumar980121
-
-  🔗This is my Youtube channel plz check out 👇 
-    https://www.youtube.com/@SunnyKeshri15
-
-   🔗This is my Discord ID plz check out 👇 
-   https://discord.com/users/1169210008240672810
-
-  🔗This is my X-twitter ID plz check out 👇 
-       https://x.com/snnand9
-       
-  🔗This is my Facebook ID plz check out 👇
-  https://www.facebook.com/profile.php?id=61567246743546
-
-   🔗This is my Instagram ID plz check out 👇
-   https://www.instagram.com/sunnykeshriofficial/?hl=en
-  
 
  
