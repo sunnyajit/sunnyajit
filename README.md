@@ -2,7 +2,7 @@
 ##   
  <h1>Hey There! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> 
-  my self Sunny, a software engineer from India.   
+  MySelf Sunny, a Software Engineer from India.   
 </h1>
 
 <div id="header" align="center">
