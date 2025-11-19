@@ -99,11 +99,14 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sunny-kumar-a06484297/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-kumar-a06484297" height="30" width="45" />
   </a>
-  <a href="https://www.instagram.com/sunnykeshriofficial/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunnykeshriofficial" height="30" width="45" />
+     <!-- https://www.instagram.com/sunnykr_sde/ -->
+  <a href="https://www.instagram.com/sunnykr_sde/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunnykr_sde" height="30" width="45" />
   </a>
-  <a href="https://www.youtube.com/@SunnyKeshri15/featured" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@SunnyKeshri15" height="30" width="45" />
+
+<!--https://www.youtube.com/@TechWithSunny90 -->
+  <a href="https://www.youtube.com/@TechWithSunny90" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@TechWithSunny90" height="30" width="45" />
   </a>
   <a href="https://leetcode.com/u/Sunnyajit/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sunnyajit" height="30" width="45" />
@@ -116,10 +119,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sunny-kumar-a06484297/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@SunnyKeshri15">
+  <a href="https://www.youtube.com/@TechWithSunny90">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="https://x.com/snnand9">
+  <!-- https://x.com/SunnyTechLead -->
+  <a href="https://x.com/SunnyTechLead">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
